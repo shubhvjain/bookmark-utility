@@ -79,7 +79,7 @@ const loadModal = () => {
   }
 
 };
-
-window.onload = async function () {
-  loadModal();
-};
+// window.onload = async function () {
+//   loadModal();
+// };
+// loadModal();
